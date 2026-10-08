@@ -46,7 +46,7 @@ Me chamo Railton Mendes Guedes, tenho 19 anos e sou natural do Pará. Concluí o
 
   <img
     align="left"
-    alt="Linguagens mais utilizadas"
+    alt="Linguagens que mais uso"
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=railtonmendes233-code&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3&hide=javascript,typescript,css,c,cpp"
   />
@@ -54,7 +54,7 @@ Me chamo Railton Mendes Guedes, tenho 19 anos e sou natural do Pará. Concluí o
 
 <br clear="both">
 
-### 💻 Minhas Tecnologias
+### 💻 Minhas Tecnologias favotitas
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,py,html&theme=dark" alt="Java, Python e HTML" />
