@@ -31,6 +31,9 @@ Me chamo Railton Mendes Guedes, tenho 19 anos e sou natural do Pará. Concluí o
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+
+
 ### 📊 Estatísticas
 
 <p>
