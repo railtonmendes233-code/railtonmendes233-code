@@ -39,16 +39,23 @@ Me chamo Railton Mendes Guedes, tenho 19 anos e sou natural do Pará. Concluí o
 <p>
   <img
     align="left"
-    alt="Estatísticas de Railton"
+    alt="Estatísticas do GitHub"
     height="200"
-    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=railtonmendes233-code&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img
     align="left"
-    alt="Tecnologias de Railton"
+    alt="Linguagens mais utilizadas"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=railtonmendes233-code&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=railtonmendes233-code&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3&hide=javascript,typescript,css,c,cpp"
   />
+</p>
+
+<br clear="both">
+
+### 💻 Minhas Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,py,html&theme=dark" alt="Java, Python e HTML" />
 </p>
