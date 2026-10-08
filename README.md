@@ -4,7 +4,6 @@
 
 Me chamo Railton Mendes Guedes, tenho 19 anos e sou natural do Pará. Concluí o ensino médio no IFPA, com o curso técnico em Administração. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no próprio Instituto Federal. Sou fascinado por tecnologia e pretendo em breve trabalhar na área. 
 
-### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
